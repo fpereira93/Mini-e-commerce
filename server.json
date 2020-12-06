@@ -1,0 +1,73 @@
+{
+    "stock": [
+      {
+        "id": 1,
+        "amount": 3
+      },
+      {
+        "id": 2,
+        "amount": 5
+      },
+      {
+        "id": 3,
+        "amount": 2
+      },
+      {
+        "id": 4,
+        "amount": 1
+      },
+      {
+        "id": 5,
+        "amount": 5
+      },
+      {
+        "id": 6,
+        "amount": 10
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "title": "Tênis de Caminhada Leve Confortável",
+        "price": 179.9,
+        "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg",
+        "description": "O Tênis Nike Masculino Downshifter 10 traz amortecimento e suporte atualizados, para garantir uma corrida estável e confortável. Esse tênis de corrida é confeccionado em material respirável, cabedal em couro sintético, com mesh no calcanhar, proporciona suporte e circulação de ar, forro acolchoado, entressola em espuma de EVA flexível, garantindo a sensação de amortecimento responsivo durante o treino e solado em borracha para tração durável. O homem que busca resultados e estilo, conta com a Nike para acompanhar nos treinos e no dia a dia."
+      },
+      {
+        "id": 2,
+        "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+        "price": 139.9,
+        "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg",
+        "description": "O Tênis Nike Masculino Downshifter 10 traz amortecimento e suporte atualizados, para garantir uma corrida estável e confortável. Esse tênis de corrida é confeccionado em material respirável, cabedal em couro sintético, com mesh no calcanhar, proporciona suporte e circulação de ar, forro acolchoado, entressola em espuma de EVA flexível, garantindo a sensação de amortecimento responsivo durante o treino e solado em borracha para tração durável. O homem que busca resultados e estilo, conta com a Nike para acompanhar nos treinos e no dia a dia."
+      },
+      {
+        "id": 3,
+        "title": "Tênis Adidas Duramo Lite 2.0",
+        "price": 219.9,
+        "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg",
+        "description": "O Tênis Nike Masculino Downshifter 10 traz amortecimento e suporte atualizados, para garantir uma corrida estável e confortável. Esse tênis de corrida é confeccionado em material respirável, cabedal em couro sintético, com mesh no calcanhar, proporciona suporte e circulação de ar, forro acolchoado, entressola em espuma de EVA flexível, garantindo a sensação de amortecimento responsivo durante o treino e solado em borracha para tração durável. O homem que busca resultados e estilo, conta com a Nike para acompanhar nos treinos e no dia a dia."
+      },
+      {
+        "id": 5,
+        "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+        "price": 139.9,
+        "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg",
+        "description": "O Tênis Nike Masculino Downshifter 10 traz amortecimento e suporte atualizados, para garantir uma corrida estável e confortável. Esse tênis de corrida é confeccionado em material respirável, cabedal em couro sintético, com mesh no calcanhar, proporciona suporte e circulação de ar, forro acolchoado, entressola em espuma de EVA flexível, garantindo a sensação de amortecimento responsivo durante o treino e solado em borracha para tração durável. O homem que busca resultados e estilo, conta com a Nike para acompanhar nos treinos e no dia a dia."
+      },
+      {
+        "id": 6,
+        "title": "Tênis Adidas Duramo Lite 2.0",
+        "price": 219.9,
+        "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg",
+        "description": "O Tênis Nike Masculino Downshifter 10 traz amortecimento e suporte atualizados, para garantir uma corrida estável e confortável. Esse tênis de corrida é confeccionado em material respirável, cabedal em couro sintético, com mesh no calcanhar, proporciona suporte e circulação de ar, forro acolchoado, entressola em espuma de EVA flexível, garantindo a sensação de amortecimento responsivo durante o treino e solado em borracha para tração durável. O homem que busca resultados e estilo, conta com a Nike para acompanhar nos treinos e no dia a dia."
+      },
+      {
+        "id": 4,
+        "title": "Tênis de Caminhada Leve Confortável",
+        "price": 179.9,
+        "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg",
+        "description": "O Tênis Nike Masculino Downshifter 10 traz amortecimento e suporte atualizados, para garantir uma corrida estável e confortável. Esse tênis de corrida é confeccionado em material respirável, cabedal em couro sintético, com mesh no calcanhar, proporciona suporte e circulação de ar, forro acolchoado, entressola em espuma de EVA flexível, garantindo a sensação de amortecimento responsivo durante o treino e solado em borracha para tração durável. O homem que busca resultados e estilo, conta com a Nike para acompanhar nos treinos e no dia a dia."
+      }
+    ]
+  }
+  
