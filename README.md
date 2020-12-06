@@ -1,7 +1,7 @@
-##### Mini e-commerce simples usando ReactJS + Styled Componente + Mock API + Routes
+### Mini e-commerce simples usando ReactJS + Styled Componente + Mock API + Routes
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-#### O que o projeto deverá ter? :)
+#### O que o projeto deverá ter? 😍
 
 * [✔] - O sistema deverá ser em React com redux.
 * [✔] - Deverá conter uma rota de listagem e descrição de produtos.
