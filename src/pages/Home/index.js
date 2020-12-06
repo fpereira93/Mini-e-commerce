@@ -35,7 +35,7 @@ const Home = () => {
                                     key={product.id}
                                     product={product}
                                     amount={productsAmount[product.id] ?? 0}
-                                    onClickImage={() => onClickToViewDetails(product)}
+                                    onClickCard={() => onClickToViewDetails(product)}
                                     onClick={() => onClickProduct(product)}
                                 />
                             ))

@@ -32,6 +32,7 @@ export const Container = styled.div`
 export const WrapperImage = styled.div`
     margin-right: 30px;
     display: flex;
+    cursor: pointer;
 
     @media(max-width: 360px){
         margin-right: 0px;

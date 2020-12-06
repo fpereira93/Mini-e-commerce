@@ -4,9 +4,25 @@ import ButtonAddCart from '../ButtonAddCart';
 import { Container, WrapperImage, WrapperInfo } from './styles';
 
 const CardProduct = (props) => {
+
+    let buttonAddFirst = false;
+
+    const onClickContainer = () => {
+        if (!buttonAddFirst){
+            props.onClickCard();
+        }
+
+        buttonAddFirst = false;
+    }
+
+    const onClickButtonAdd = () => {
+        buttonAddFirst = true;
+        props.onClick();
+    }
+
     return (
-        <Container>
-            <WrapperImage onClick={props.onClickImage}>
+        <Container onClick={onClickContainer}>
+            <WrapperImage>
                 <img src={props.product.image} alt={props.product.title} />
             </WrapperImage>
 
@@ -15,7 +31,7 @@ const CardProduct = (props) => {
                 <span>{formatPrice(props.product.price)}</span>
             </WrapperInfo>
 
-            <ButtonAddCart amount={props.amount} onClick={props.onClick}/>
+            <ButtonAddCart amount={props.amount} onClick={onClickButtonAdd}/>
         </Container>
     )
 }

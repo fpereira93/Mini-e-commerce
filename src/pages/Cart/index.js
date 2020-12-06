@@ -8,6 +8,7 @@ import { Flex } from '../../styles/global';
 import { useSelector, useDispatch } from 'react-redux';
 import * as CartActions from '../../store/modules/cart/actions';
 import { formatPrice } from '../../util/format';
+import history from '../../services/history';
 
 const Cart = () => {
 
@@ -27,6 +28,10 @@ const Cart = () => {
         dispatch(CartActions.removeProductFromCart(product.id));
     }
 
+    const onClickImage = (product) => {
+        history.push(`/details/${product.id}`);
+    }
+
     const finishCart = () => {
         alert('Funcionalidade não implementada!');
     }
@@ -39,7 +44,7 @@ const Cart = () => {
 
                     return (
                         <div key={product.id}>
-                            <WrapperImage>
+                            <WrapperImage onClick={() => onClickImage(product)}>
                                 <img src={product.image} alt={product.title} />
                             </WrapperImage>
                             <WrapperExtraData>

@@ -13,4 +13,17 @@
 * [✔] - Deverá ser possível acessar o carrinho com os produtos em qualquer tela do sistema.
 * [✔] - Na listagem, deverá ser possível filtrar pelo nome dos produtos ou id.
 * [✔] - Utilizar alguma metodologia css ou JSS ou Styled Component.
+* [✔] - Responsivo ?? mas é claro, isso não é um dever, é uma obrigação😉
 * [✔] - Disponibilizar o código em um repositório do github.
+
+⏲
+**Dois dias de desenvimento, Sábado e Domingo!** 😄
+
+#### Como executar o projeto? 🤓
+* yarn install
+* yarn start
+* json-server server.json -p 3333
+
+### Pronto!🙌
+
+## Finished :)
