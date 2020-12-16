@@ -1,20 +1,19 @@
 ### Mini e-commerce simples usando ReactJS + Styled Componente + Mock API + Routes
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-#### O que o projeto deverá ter? 😍
+#### O que o projeto tem? 😍
 
-* [✔] - O sistema deverá ser em React com redux.
-* [✔] - Deverá conter uma rota de listagem e descrição de produtos.
-* [✔] - O layout deverá ser criado pelo desenvolvedor.
-* [✔] - Os dados devem vir de um MOCK API.
-* [✔] - Deverá existir a possibilidade de adicionar o produto no carrinho.
+* [✔] - Desenvolvido com React e redux.
+* [✔] - Contém rotas de listagem e descrição de produtos.
+* [✔] - O layout desenvolvido por mim mesmo.
+* [✔] - Utilização de MOCK API.
+* [✔] - Possibilita adicionar o produto no carrinho.
 * [✔] - Acrescentar e diminuir a quantidade.
 * [✔] - Remover do carrinho.
-* [✔] - Deverá ser possível acessar o carrinho com os produtos em qualquer tela do sistema.
-* [✔] - Na listagem, deverá ser possível filtrar pelo nome dos produtos ou id.
-* [✔] - Utilizar alguma metodologia css ou JSS ou Styled Component.
+* [✔] - Acesso ao carrinho com os produtos em qualquer tela do sistema.
+* [✔] - Na listagem, é possível filtrar pelo nome dos produtos ou id.
+* [✔] - Utlização de Styled Component.
 * [✔] - Responsivo ?? mas é claro, isso não é um dever, é uma obrigação😉
-* [✔] - Disponibilizar o código em um repositório do github.
 
 ⏲
 **Dois dias de desenvimento, Sábado e Domingo!** 😄
